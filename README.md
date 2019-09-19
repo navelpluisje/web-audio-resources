@@ -1,4 +1,4 @@
-<img align="center" src="https://alemangui.github.io/web-audio-resources/header.jpg" alt="Web audio resources">
+# HTML5 Web audio resources
 
 This is a list of curated resources related to the [Web audio API](http://webaudio.github.io/web-audio-api/). Browser support for the web audio API can be found [here](http://caniuse.com/#feat=audio-api).
 
@@ -53,20 +53,17 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Acid Machine 2](http://www.errozero.co.uk/acid-machine/) - similar to Propellerhead ReBirth RB-338 (although doesn't claim to be a port)
 
 ## Fun and interesting projects
+- [BeatMachine](https://beatmachin.net/) - A drummachine with sequencer, midi support and a ddpserver for collaboration.
 - [Chrome music lab](https://musiclab.chromeexperiments.com/) - Web Audio experiments aimed at making learning music more accessible to everyone.
-- [Jam with Chrome](http://www.jamwithchrome.com/) - A collaborative live music web application.
 - [Plink](http://dinahmoelabs.com/_plink/) - Multiplayer music experience.
 - [Modulator](https://lcrespom.github.io/synth/) - An editable graphical node synth.
-- [sound.io](https://sound.io/) - A live-performance Web Audio tool which allows on-the-fly modification of audio.
 - [Drums](https://mikedotalmond.github.io/drums/) - A 16-step, 8-track, drum sequencer with per-step sample controls.
 - [Recreating the ring modulator with web audio](http://webaudio.prototyping.bbc.co.uk/ring-modulator/) - An article on coding the device used to create the voices of the Daleks and the Cybermen in Dr. Who.
-- [Drum machine](http://html5drummachine.com/) - Drum machine with several different drumkits.
-- [Pedalboard](https://github.com/dashersw/pedalboard.js) - Guitar pedal effects simulation.
-- [Wave-PD1](http://alxgbsn.co.uk/wavepad/) - A themerin-like instrument for the browser.
+- [Pedals.io](https://pedals.io/) - Guitar pedal effects simulation.
 - [Wavepot](http://wavepot.com/) - A live digital signal processor (DSP) editor built with web audio.
-- [Tonalhub](https://alemangui.github.io/Tonalhub/)<sup>[*](#disclosure)</sup> - Hear a web audio representation of the last year's commit activity of a given GitHub user and repository.
 - [Tweet FM](https://tweet-fm.herokuapp.com/) - An interesting multimedia experiment combining Tweeter feeds and web audio in real time. 
 - [Mod-synth](http://mod-synth.io) - A visual synthesizer with several components and presets. It can also be used with a MIDI controller.
+
 - [The Rick Astley Remix](http://dinahmoelabs.com/rickastley) - Remix Rick Astley's most famous song into different styles.
 - [Theremin](https://femurdesign.com/theremin/) - Another Theremin with delays, feedbacks and scuzz.
 - [Key-and-pad](http://keyandpad.com/) - A Web Audio synthesizer with a XY Pad to control effects.
