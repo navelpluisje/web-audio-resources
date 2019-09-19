@@ -29,7 +29,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Wad](https://github.com/rserota/wad) - Library for manipulating audio with web audio.
 - [Tuna](https://github.com/Theodeus/tuna) - Audio effects library.
 - [Blip](https://github.com/jshanley/blip) - Lightweight web audio wrapper.
-- [Pizzicato](https://github.com/alemangui/pizzicato)<sup>[*](#disclosure)</sup> - A library that aims to simplify the way you create and manipulate sounds with the Web Audio API.
+- [Pizzicato](https://github.com/alemangui/pizzicato) - A library that aims to simplify the way you create and manipulate sounds with the Web Audio API.
 - [Soundio](https://github.com/soundio/soundio) - Soundio is a Graph Object Model for Web Audio processing graphs. It also provides a JSONify-able structure for exporting and importing them.
 - [Theresa's sound world](https://github.com/stuartmemo/theresas-sound-world) - Library for manipulating audio built on top of the web audio API.
 - [Musical](https://github.com/PencilCode/musical.js) - A light library with a sequencing synthesizer that supports ABC notation.
@@ -51,19 +51,20 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Midi synth](http://webaudiodemos.appspot.com/midi-synth/) - Analog synthesizer simulation loosely based on the architecture of a Moog Prodigy synthesizer.
 - [X Sound](https://korilakkuma.github.io/X-Sound/) - Web Synthesizer by [XSound](https://github.com/Korilakkuma/XSound).
 - [Acid Machine 2](http://www.errozero.co.uk/acid-machine/) - similar to Propellerhead ReBirth RB-338 (although doesn't claim to be a port)
+- [Mod-synth](http://mod-synth.io) - A visual synthesizer with several components and presets. It can also be used with a MIDI controller.
+
+## Drum machines
+- [BeatMachine](https://beatmachin.net/)<sup>[*](#disclosure)</sup> - A drummachine with sequencer, midi support and a ddpserver for collaboration.
+- [Drums](https://mikedotalmond.github.io/drums/) - A 16-step, 8-track, drum sequencer with per-step sample controls.
 
 ## Fun and interesting projects
-- [BeatMachine](https://beatmachin.net/) - A drummachine with sequencer, midi support and a ddpserver for collaboration.
 - [Chrome music lab](https://musiclab.chromeexperiments.com/) - Web Audio experiments aimed at making learning music more accessible to everyone.
 - [Plink](http://dinahmoelabs.com/_plink/) - Multiplayer music experience.
 - [Modulator](https://lcrespom.github.io/synth/) - An editable graphical node synth.
-- [Drums](https://mikedotalmond.github.io/drums/) - A 16-step, 8-track, drum sequencer with per-step sample controls.
 - [Recreating the ring modulator with web audio](http://webaudio.prototyping.bbc.co.uk/ring-modulator/) - An article on coding the device used to create the voices of the Daleks and the Cybermen in Dr. Who.
 - [Pedals.io](https://pedals.io/) - Guitar pedal effects simulation.
 - [Wavepot](http://wavepot.com/) - A live digital signal processor (DSP) editor built with web audio.
 - [Tweet FM](https://tweet-fm.herokuapp.com/) - An interesting multimedia experiment combining Tweeter feeds and web audio in real time. 
-- [Mod-synth](http://mod-synth.io) - A visual synthesizer with several components and presets. It can also be used with a MIDI controller.
-
 - [The Rick Astley Remix](http://dinahmoelabs.com/rickastley) - Remix Rick Astley's most famous song into different styles.
 - [Theremin](https://femurdesign.com/theremin/) - Another Theremin with delays, feedbacks and scuzz.
 - [Key-and-pad](http://keyandpad.com/) - A Web Audio synthesizer with a XY Pad to control effects.
