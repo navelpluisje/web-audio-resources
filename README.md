@@ -16,8 +16,6 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Guitar tuner tutorial](https://aerotwist.com/blog/guitar-tuner/) - Create a guitar tuner with web audio and Polymer
 - [Synthesizing tones with Fourier transforms](http://www.sitepoint.com/using-fourier-transforms-web-audio-api/) - Sound generation with oscillators and Fourier transforms.
 - [Web MIDI API and Web Audio tutorial](http://www.toptal.com/web/creating-browser-based-audio-applications-controlled-by-midi-hardware) - Basic tutorial to create a simple synthesizer controlled by MIDI hardware.
-- [The Web Audio API from Node to the browser](http://www.willvillanueva.com/the-web-audio-api-from-nodeexpress-to-your-browser/) - Tutorial on serving audio files from Node/Express and consuming them in the browser.
-- [Beat detection using Javascript](http://tech.beatport.com/2014/web-audio/beat-detection-using-web-audio/) - How to detect beats and tempo using the web audio API.
 - [Javascript Air episode on Web Audio](https://javascriptair.com/episodes/2016-07-27/) - An overview at audio programming with JavaScript and an introduction to some tools and frameworks.
 - [Slack's web audio channel](https://web-audio-slackin.herokuapp.com/) - A friendly slack channel of people interested in web audio.
 - [JavaScript Systems Music](http://teropa.info/blog/2016/07/28/javascript-systems-music.html) - An article by Tero Parviainen on recreating generative music pieces by Steve Reich and Brian Eno.
@@ -67,10 +65,8 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Tweet FM](https://tweet-fm.herokuapp.com/) - An interesting multimedia experiment combining Tweeter feeds and web audio in real time. 
 - [The Rick Astley Remix](http://dinahmoelabs.com/rickastley) - Remix Rick Astley's most famous song into different styles.
 - [Theremin](https://femurdesign.com/theremin/) - Another Theremin with delays, feedbacks and scuzz.
-- [Key-and-pad](http://keyandpad.com/) - A Web Audio synthesizer with a XY Pad to control effects.
 - [Musical Chord Progression Arpeggiator](http://codepen.io/jakealbaugh/full/qNrZyw/) - An app for creating arpeggios with different progressions and styles.
 - [D3 synth](http://roadtolarissa.com/synth/) - A D3 visualization that allows editing a sound loop.
-- [Gibber](http://gibber.mat.ucsb.edu) - is an audiovisual live coding environment for the browser ([github](https://github.com/charlieroberts/Gibber))
 - [Winamp2-js](https://jordaneldredge.com/projects/winamp2-js/) - A reimplementation of Winamp 2.9 using the Web Audio API. [GitHub](https://github.com/captbaritone/winamp2-js)
 - [Web audio modem](https://martinmelhus.com/web-audio-modem/) - A project showing how to encode and decode data using the web audio API
 - [Music mouse](https://teropa.info/musicmouse/) - A partial emulation by Tero Parviainen of Laurie Spiegel's "Music Mouse - An Intelligent Instrument".
