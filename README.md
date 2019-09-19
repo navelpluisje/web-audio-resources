@@ -5,7 +5,8 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 
 ## Learning and tutorials
 - [MDN Web api documentation](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) - Mozilla documentation for developing with web audio API.
-- [Web audio API](http://chimera.labs.oreilly.com/books/1234000001552/index.html) - An e-book by Boris Smud.
+- [Web audio API Draft](https://webaudio.github.io/web-audio-api/) - The official Web audio API draft version.
+- [Web audio API](https://www.w3.org/TR/webaudio/) - The official Web audio API.
 - [Noisehack](http://noisehack.com/) - A Blog about audio programming with plenty of articles about web audio api.
 - [Web audio gotchas](https://github.com/Jam3/web-audio-player#webaudio-gotchas) - A small list of tricky web audio gotchas that are much needed to keep sanity.
 - [Building a virtual synth pad](http://www.sitepoint.com/html5-web-audio-api-tutorial-building-virtual-synth-pad/) - Tutorial to build a virtual synth pad that will play audio samples and provide a reverb feature.
