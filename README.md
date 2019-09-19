@@ -86,5 +86,3 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Some of the Best Music Pens on CodePen](https://blog.codepen.io/2017/03/17/best-music-pens-codepen/) - A list that includes the best audio-related projects in CodePen.
 
 <a name="disclosure">*</a>: Full disclosure: I am the author of these items.
-
-The images used in the header of this file were created by Dale Humphries and Yorlmar Campos from the Noun Project.
