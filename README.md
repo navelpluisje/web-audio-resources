@@ -74,8 +74,12 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [AudioNodes](https://audionodes.com/) - Modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, and more ([download](https://audionodes.com/download), [online version](https://audionodes.com/online))
 - [Psyren Audio / Visual Synthesizer](http://www.bolasol.com/psyren/) - interactively generate psytrance squelches ([github](https://github.com/kbola/psyren))
 
+## Performers
+- [Live:JS](https://livejs.network/) - A collective of audio and visual artists who build live experiences, shows and installations
+
 ## Other web audio lists and resources
 - [Chromium Web Audio API Demos](https://chromium.googlecode.com/svn/trunk/samples/audio/samples.html) - Web audio app list curated by the Chromium project members.
+- [Web Audio Samples](https://googlechromelabs.github.io/web-audio-samples/) - A collection of projects, examples and resources for Web Audio API. Curated by Chrome Web Audio team.
 - [Web Audio Weekly by Chris Lowis](http://tinyletter.com/webaudioweekly) - A weekly newsletter with hints, tips, links and news related to the Web Audio world.
 - [Audiocrawl](http://audiocrawl.co/) - A showcase of web audio projects with the possibility of signing up for a monthly newsletter.
 - [Awesome Web Audio](https://github.com/notthetup/awesome-webaudio) - A curated list of Web Audio packages and demos.
