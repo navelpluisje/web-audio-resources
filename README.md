@@ -60,6 +60,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Drums](https://mikedotalmond.github.io/drums/) - A 16-step, 8-track, drum sequencer with per-step sample controls.
 
 ## Fun and interesting projects
+-[Faust](https://faust.grame.fr/) - Faust (Functional Audio Stream) is a functional programming language for sound synthesis and audio processing with a strong focus on the design of synthesizers, musical instruments, audio effects, etc.
 - [Chrome music lab](https://musiclab.chromeexperiments.com/) - Web Audio experiments aimed at making learning music more accessible to everyone.
 - [Plink](http://dinahmoelabs.com/_plink/) - Multiplayer music experience.
 - [Modulator](https://lcrespom.github.io/synth/) - An editable graphical node synth.
