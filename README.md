@@ -47,6 +47,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Web Audio Inspector](https://github.com/google/audion) - A debugging tool that visualizes the Web Audio API graph of a web page in real time.
 
 ## Synths
+- [Zupiter](https://z.musictools.live/) - Modular synth by Maxime Chevalier-Boisvert.
 - [Websynths](http://websynths.com/) - Web synthesizer by Mitch Wells.
 - [JS Dynamic Audio Synth](http://www.keithwhor.com/music/) - A musical keyboard by Keith William Horwood.
 - [106.js](http://resistorsings.com/106/) - Emulation of the classic Roland Juno-106 analog synthesizer.
