@@ -82,6 +82,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Live:JS](https://livejs.network/) - A collective of audio and visual artists who build live experiences, shows and installations
 
 ## Other web audio lists and resources
+- [Web Audio Bench](https://spotify.github.io/web-audio-bench/) - Web audio benchmark tool created by Spotify
 - [Chromium Web Audio API Demos](https://chromium.googlecode.com/svn/trunk/samples/audio/samples.html) - Web audio app list curated by the Chromium project members.
 - [Web Audio Samples](https://googlechromelabs.github.io/web-audio-samples/) - A collection of projects, examples and resources for Web Audio API. Curated by Chrome Web Audio team.
 - [Web Audio Weekly by Chris Lowis](http://tinyletter.com/webaudioweekly) - A weekly newsletter with hints, tips, links and news related to the Web Audio world.
