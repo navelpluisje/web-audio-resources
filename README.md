@@ -79,6 +79,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Music mouse](https://teropa.info/musicmouse/) - A partial emulation by Tero Parviainen of Laurie Spiegel's "Music Mouse - An Intelligent Instrument".
 - [AudioNodes](https://audionodes.com/) - Modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, and more ([download](https://audionodes.com/download), [online version](https://audionodes.com/online))
 - [Psyren Audio / Visual Synthesizer](http://www.bolasol.com/psyren/) - interactively generate psytrance squelches ([github](https://github.com/kbola/psyren))
+- [Learning Synths](https://learningsynths.ableton.com/) - Learn more about synthesis by Ableton.
 
 ## Performers
 - [Live:JS](https://livejs.network/) - A collective of audio and visual artists who build live experiences, shows and installations
