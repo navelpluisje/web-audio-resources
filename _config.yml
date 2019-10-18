@@ -1,4 +1,9 @@
 theme: minima
+
+title: Web Audio Resources
+author: Erwin Goossen
+email: eriwn@navelpluisje.nl
+
 minima:
   social_links:
     twitter: navelpluisje_nl
