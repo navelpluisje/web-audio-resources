@@ -1,6 +1,10 @@
 theme: minima
 
 title: Web Audio Resources
+description: >
+  A growing list of Web Audio resources. 
+  If you're missing any, create a PR or just let me know and I will add it.
+  
 author: Erwin Goossen aka Navelpluisje
 email: eriwn@navelpluisje.nl
 
