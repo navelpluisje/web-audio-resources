@@ -24,6 +24,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Slack's web audio channel](https://web-audio-slackin.herokuapp.com/) - A friendly slack channel of people interested in web audio.
 - [JavaScript Systems Music](http://teropa.info/blog/2016/07/28/javascript-systems-music.html) - An article by Tero Parviainen on recreating generative music pieces by Steve Reich and Brian Eno.
 - [Recreating Legendary 8-bit games music](http://codepen.io/gregh/post/recreating-legendary-8-bit-games-music-with-web-audio-api) - An article on how to use web audio to generate 8-bit music (a.k.a chiptune).
+- [Taming the ScriptProcessorNode](http://sriku.org/blog/2013/01/30/taming-the-scriptprocessornode/) - extensive article on the ScriptProcessorNode by Srikumar Subramanian.
 
 ## Libraries
 - [Howler.js](https://github.com/goldfire/howler.js) - Web audio library. Falls back to HTML5 Audio.
