@@ -1,5 +1,3 @@
-# HTML5 Web audio resources
-
 This is a list of curated resources related to the [Web audio API](http://webaudio.github.io/web-audio-api/). Browser support for the web audio API can be found [here](http://caniuse.com/#feat=audio-api).
 
 ## Specifications
