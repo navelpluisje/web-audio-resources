@@ -35,7 +35,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [Theresa's sound world](https://github.com/stuartmemo/theresas-sound-world) - Library for manipulating audio built on top of the web audio API.
 - [Musical](https://github.com/PencilCode/musical.js) - A light library with a sequencing synthesizer that supports ABC notation.
 - [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) - Library for declaratively manipulating the Web Audio API.
-- [gibber.lib.js](http://charlie-roberts.com/gibber/gibber-lib-js) - Library version of [Gibber](http://gibber.mat.ucsb.edu)
+- [gibber.lib.js](http://charlie-roberts.com/gibber/gibber-lib-js) - Library version of [Gibber](http://gibber.cc)
 - [XSound](https://github.com/Korilakkuma/XSound) - Web Audio API Library for Synths, Visualization, Effects ... etc
 
 ## Visualization
