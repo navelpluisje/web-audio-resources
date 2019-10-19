@@ -7,6 +7,7 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 ## Learning and tutorials
 - [MDN Web api documentation](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) - Mozilla documentation for developing with web audio API.
 - [AudioWorklet](https://developers.google.com/web/updates/2017/12/audio-worklet) - A Blog post about the audio worklet.
+- [Audio Worklet Design Pattern](https://developers.google.com/web/updates/2018/06/audio-worklet-design-pattern) - Great article about audio worklets by Hongchan Choi 
 - [Web Audio API by Boris Smus](https://www.oreilly.com/library/view/web-audio-api/9781449332679/index.html) - A book on web audio 
 - [Canopy](https://hoch.github.io/canopy/) - Web audio playground and real time coding environment. 
 - [Noisehack](http://noisehack.com/) - A Blog about audio programming with plenty of articles about web audio api.
