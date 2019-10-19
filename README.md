@@ -60,6 +60,11 @@ This is a list of curated resources related to the [Web audio API](http://webaud
 - [BeatMachine](https://beatmachin.net/)<sup>[*](#disclosure)</sup> - A drummachine with sequencer, midi support and a ddpserver for collaboration.
 - [Drums](https://mikedotalmond.github.io/drums/) - A 16-step, 8-track, drum sequencer with per-step sample controls.
 
+## Browsers
+- [Firefox Audio API bugs](https://bugzilla.mozilla.org/buglist.cgi?product=Core&component=Web%20Audio&bug_status=__open__) - Current list of open bugs for Audio API implementation in Firefox
+- [Chromium Audio API bugs](https://bugs.chromium.org/p/chromium/issues/list?q=component:Blink%3EWebAudio) - Current list of open bugs for Audio API implementation in Chromium
+- [Profiling Web Audio API application in Chromium](https://docs.google.com/document/d/1A3AnN_-fh7aoyTBeUMTvJvLfQb68QSd913sZgndr46Y/edit) - Steps for performance profiling of WebAudio application
+
 ## Fun and interesting projects
 - [Faust](https://faust.grame.fr/) - Faust (Functional Audio Stream) is a functional programming language for sound synthesis and audio processing with a strong focus on the design of synthesizers, musical instruments, audio effects, etc.
 - [Chrome music lab](https://musiclab.chromeexperiments.com/) - Web Audio experiments aimed at making learning music more accessible to everyone.
